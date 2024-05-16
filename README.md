@@ -1,4 +1,4 @@
-# Energy-Predictor
+# Energy-Demand-Predictor
 
 Necessary links for our Machine Learning project~
 
