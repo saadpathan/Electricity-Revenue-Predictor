@@ -2,7 +2,9 @@
 
 Necessary links for our Machine Learning project~
 
-Dataset : https://drive.google.com/file/d/1N4Y-HF1bvbAC4XNaFc_CDx-c-k9y2osw/view?usp=drive_link  
+Dataset : https://drive.google.com/file/d/1N4Y-HF1bvbAC4XNaFc_CDx-c-k9y2osw/view?usp=drive_link 
+
+Google Colab : https://colab.research.google.com/drive/1_xVQPAmAPG0M0y_8899Nsq38yl_-avH5?usp=sharing
 
 Sample Project File : https://drive.google.com/file/d/1obbPgDP4lXzCbF9jd7IeAYJRXmFy0t4H/view?usp=sharing  
 
