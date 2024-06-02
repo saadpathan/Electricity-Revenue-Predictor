@@ -85,8 +85,13 @@ The project requires the following libraries:
 - `seaborn`
 - `scikit-learn`
 - `xgboost`
-- `tensorflow` (if applicable)
-- `keras` (if applicable)
+- `missingno`
+- `datetime`
+- `scipy.stats`
+- `warnings`
+- `scipy.stats`
+- `statsmodels.api`
+- `pickle`
 
 You can install the necessary libraries using:
 ```bash
