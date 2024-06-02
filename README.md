@@ -14,16 +14,13 @@ This repository contains a Jupyter Notebook that demonstrates a comprehensive ma
 
 ## Problem Statement
 
+Electricity is essential for economic and social development, enabling nations to achieve higher living standards. In today's world, effective planning and operation of electricity production, revenue generation from production, and energy consumption are imperative. Understanding how energy generates revenue and is utilized by consumers is crucial for better management. This presents an opportunity to develop a supervised machine learning model to forecast future electricity revenues.
+
 The goal is to develop a machine learning model capable of accurately forecasting electricity revenues based on the provided features. This model is valuable for utility companies, energy firms, and policymakers who need to optimize electricity consumption, reduce costs, and minimize the environmental impact of energy usage.
 
 Specifically, the model should reliably predict electricity revenues by considering various factors influencing energy consumption, such as consumer types and the number of consumers. This can help utility companies, building managers, and energy firms identify patterns and trends in energy consumption, enabling them to make informed energy decisions. Policymakers can also use this data to create regulations and incentives that promote energy efficiency and sustainability.
 
 ## Project Structure
-
-Electricity is essential for economic and social development, enabling nations to achieve higher living standards.
-
-In today's world, effective planning and operation of electricity production, revenue generation from production, and energy consumption are imperative. Understanding how energy generates revenue and is utilized by consumers is crucial for better management. This presents an opportunity to develop a supervised machine learning model to forecast future electricity revenues.
-
 
 1. Initial Phase: We brainstormed the problem and potential approaches to solve it using machine learning concepts. Then, we designed the workflow of our project.
 
