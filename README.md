@@ -6,8 +6,6 @@ Dataset : https://drive.google.com/file/d/1N4Y-HF1bvbAC4XNaFc_CDx-c-k9y2osw/view
 
 Google Colab : https://colab.research.google.com/drive/1_xVQPAmAPG0M0y_8899Nsq38yl_-avH5?usp=sharing
 
-# Machine Learning Project: Electricity-Revenue-Predictor
-
 ## Overview
 
 This repository contains a Jupyter Notebook that demonstrates a comprehensive machine learning project. The project aims to to develop a machine learning model capable of accurately forecasting electricity revenues based on the provided features. This model is valuable for utility companies, energy firms, and policymakers who need to optimize electricity consumption, reduce costs, and minimize the environmental impact of energy usage. This notebook includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment steps. 
