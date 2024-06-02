@@ -4,7 +4,7 @@ Necessary links for this Machine Learning project~
 
 Dataset : https://drive.google.com/file/d/1tx1NP1a5fyfzPHHLqsCi6GNGRFdVeFtW/view?usp=drive_link
 
-Dataset Source: https://catalog.data.gov/dataset/electric-utilities-revenue-units-sold-and-customers-by-year
+Dataset Source : https://catalog.data.gov/dataset/electric-utilities-revenue-units-sold-and-customers-by-year
 
 Google Colab : https://colab.research.google.com/drive/1_xVQPAmAPG0M0y_8899Nsq38yl_-avH5#scrollTo=jNuJjisPX7DI
 
