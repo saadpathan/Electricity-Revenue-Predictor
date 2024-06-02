@@ -45,7 +45,7 @@ In today's world, effective planning and operation of electricity production, re
 
 9. Conclusion: We summarized our project, from model selection and evaluation to finding the most suitable model for our dataset. We also highlighted key findings from each model with their respective values.
 
-# Dataset Information
+## Dataset Information
 
 RY - Reporting Year
 
@@ -111,65 +111,11 @@ jupyter notebook your-notebook-file.ipynb
 
 ## Results
 
-- **Best Model**: **Linear Regression Model Evaluation:**
-
-Mean Squared Error (MSE): 231588760521001.2
-
-Root Mean Squared Error (RMSE): 15218040.626867875
-
-R-squared (R2): 0.9067015665821766
 
 
 
-**Neural Network Model Evaluation:**
 
-Mean Squared Error (MSE): 222835706743011.4
-
-Root Mean Squared Error (RMSE): 14927682.564383911
-
-R-squared (R2): 0.9102278439510403
-
-
-
-**Decision Tree Model Evaluation:**
-
-Mean Squared Error (MSE): 6411923390724.246
-
-Root Mean Squared Error (RMSE): 2532177.5985748405
-
-R-squared (R2): 0.997416876336296
-
-
-
-**Random Forest Regressor Model Evaluation:**
-
-Mean Squared Error (MSE): 5297160256238.563
-
-Root Mean Squared Error (RMSE): 2301556.051074699
-
-R-squared (R2): 0.9978659726302849
-
-
-
-**XGBoost Regression Model Evaluation:**
-
-Mean Squared Error (MSE): 13617885819724.05
-
-Root Mean Squared Error (RMSE): 3690241.9730586843
-
-R-squared (R2): 0.9945138640986516
-
-
-
-**Best Model**
-
-Random Forest Regressor
-
-Mean Squared Error (MSE): 5297160256238.563
-
-Root Mean Squared Error (RMSE): 2301556.051074699
-
-R-squared (R2): 0.9978659726302849
+- **Best Model**: Random Forest Regression Model with Mean Squared Error (MSE): 5297160256238.563 and Root Mean Squared Error (RMSE): 2301556.051074699 and R-squared (R2): 0.9978659726302849.
 
 - **Key Insights**: The Random Forest Regressor model is recommended for this project, as it exhibited the best performance in terms of predictive accuracy and model fit. It provided the lowest MSE and highest R-squared value among all models, indicating superior predictive capability. However, depending on specific project requirements, the XGBoost Regression model could also be considered as it demonstrated strong performance as well. The decision tree model, while showing promise, might require additional regularization techniques to mitigate overfitting. The neural network and linear regression models did not perform as well and are less suitable for this dataset.
 
