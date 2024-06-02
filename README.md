@@ -1,6 +1,6 @@
 # Electricity-Revenue-Predictor
 
-Necessary links for our Machine Learning project~
+Necessary links for this Machine Learning project~
 
 Dataset : https://drive.google.com/file/d/1N4Y-HF1bvbAC4XNaFc_CDx-c-k9y2osw/view?usp=drive_link 
 
