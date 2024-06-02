@@ -1,4 +1,4 @@
-# Energy-Demand-Predictor
+# Electricity-Revenue-Predictor
 
 Necessary links for our Machine Learning project~
 
@@ -40,25 +40,41 @@ ANoCAO - Average No. of Customers in All Other
 
 ---
 
-# Machine Learning Project: [Project Name]
+# Machine Learning Project: Electricity-Revenue-Predictor
 
 ## Overview
 
-This repository contains a Jupyter Notebook that demonstrates a comprehensive machine learning project. The project aims to [briefly describe the main goal or problem the project addresses]. This notebook includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment steps. 
+This repository contains a Jupyter Notebook that demonstrates a comprehensive machine learning project. The project aims to to develop a machine learning model capable of accurately forecasting electricity revenues based on the provided features. This model is valuable for utility companies, energy firms, and policymakers who need to optimize electricity consumption, reduce costs, and minimize the environmental impact of energy usage. This notebook includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment steps. 
 
 ## Project Structure
 
-- **Data Preprocessing**: This section covers the initial steps required to clean and prepare the dataset for analysis. It includes handling missing values, encoding categorical features, feature scaling, and splitting the data into training and test sets.
-  
-- **Exploratory Data Analysis (EDA)**: In this section, various visualizations and statistical techniques are used to understand the underlying patterns and relationships in the data. Key insights and observations are drawn to inform the modeling process.
-  
-- **Model Training**: Several machine learning models are implemented and trained on the prepared dataset. This section includes hyperparameter tuning and cross-validation to optimize the models' performance.
-  
-- **Model Evaluation**: The performance of the trained models is evaluated using various metrics such as accuracy, precision, recall, F1-score, ROC-AUC, etc. The evaluation results are compared to select the best-performing model.
-  
-- **Model Deployment**: The final model is saved and prepared for deployment. This section may include steps for exporting the model to a file, creating an API, or integrating the model into a web application.
-  
-- **Conclusion**: A summary of the findings, model performance, and potential areas for future improvement.
+Electricity is essential for economic and social development, enabling nations to achieve higher living standards.
+
+In today's world, effective planning and operation of electricity production, revenue generation from production, and energy consumption are imperative. Understanding how energy generates revenue and is utilized by consumers is crucial for better management. This presents an opportunity to develop a supervised machine learning model to forecast future electricity revenues.
+
+
+1. Initial Phase: We brainstormed the problem and potential approaches to solve it using machine learning concepts. Then, we designed the workflow of our project.
+
+
+2. Data Mining: We extracted a dataset from Data.gov, covering data from 2015 to 2022. The dataset includes revenue, units sold, and the average number of customers, categorized by customer class for each electric utility operating in Iowa, USA.
+
+
+3. Data Preprocessing: We understood the data and identified some null values in the dataset, receiving a detailed description of the characteristics involved.
+
+
+4. Feature Discussion: We discussed and renamed features for better readability and understanding, facilitating a smoother data environment.
+
+
+5. Exploratory Data Analysis (EDA) and Visualization: EDA and visualization provided concise knowledge of the link between features and the label (the dependent variable). The heatmap was used to understand the association between independent variables, helping to choose important features. Selecting the right elements to improve accuracy was challenging.
+
+6. Feature Selection: We decided to use PCA for feature selection, ultimately choosing PC1 as the feature for our project.
+
+7. Model Training and Assessment: We employed Linear Regression, Random Forest Regression, Neural Network Regression, Decision Tree, and XGBoost techniques. After comparing numerous metrics, we determined that the Random Forest Regressor produced the best results.
+
+8. Model Explainability: We used a bar chart to compare the performance of all five models, assisting in selecting the best one. The Random Forest Regressor emerged as the best model for our dataset.
+
+9. Conclusion: We summarized our project, from model selection and evaluation to finding the most suitable model for our dataset. We also highlighted key findings from each model with their respective values.
+
 
 ## Requirements
 
